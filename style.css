@@ -1,0 +1,14 @@
+.map{
+    width: 1300px;
+    height: 500px;
+    background: tomato;
+    margin: 3rem auto;
+}
+
+[class*="copyrights-pane"] {
+	display: none !important;
+}
+
+[class*="ground-pane"]{
+    filter: grayscale(1);
+}
